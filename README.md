@@ -15,7 +15,7 @@ Cleaning steps taken were as follows:
 Before conducting analysis, I created a pivot table. 
 * I then looked at the average income of someone who purchased a bike vs someone who did not purchase a bike. The average income per purchase was higher for men than it was for females. The average income of men who had purchased a bike was $60,124 compared to that of females which was $55,774.
 * I then looked at the customer commute distance and whether they purchased a bike.
-* I looked at the customer age and those who purchased a bike vs those who did not. This was done based on teh age category brackets created. The majority of bike purchases was made from customers in the middle age bracket. It was also clear that the majority of customers are from the middle age range which was useful insight which could help with any marketing initiatives.
+* I looked at the customer age and those who purchased a bike vs those who did not. This was done based on the age category brackets created. The majority of bike purchases was made from customers in the middle age bracket. It was also clear that the majority of customers are from the middle age range which was useful insight which could help with any marketing initiatives.
 * Lastly, I analysed purchases made within each region and discovered that the majority of bike purchases (508) were made in North America.
 * Pivot Graphs were then created based on the results of the analysis.
 
