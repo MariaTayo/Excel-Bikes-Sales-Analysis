@@ -2,7 +2,7 @@
 
 
 ## Background 
-This project was part of an analysis of purchased bike sales using Microsoft Excel. The dataset included details about customers' demographics including marital status, gender, education and occupation. 
+This project was part of an analysis of purchased bike sales using Microsoft Excel. The dataset included details about customers' demographics including marital status, gender, education and occupation. This was part of a project by Alex the Analyst. 
 
 ## Data Cleaning
 Cleaning steps taken were as follows: 
@@ -22,4 +22,4 @@ Before conducting analysis, I created a pivot table.
 ## Visualisations
 The visuals created from my analysis were used to create a dashboard slicers in order to incorporate filters. 
 
-This was part of a project by Alex the Analyst. 
+
