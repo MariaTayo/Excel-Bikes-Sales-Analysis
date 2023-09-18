@@ -20,7 +20,7 @@ Before conducting analysis, I created a pivot table.
 * Pivot Graphs were then created based on the results of the analysis.
 
 ## Visualisations and Dashboard
-The visuals created from my analysis were used to create a dashboard with slicers in order to incorporate filters. One of the filters included marital status. This highlighted some interesting insights in terms of purchases by single customers vs customers that are married, their average income, age brackets and commute. A filter was also included based on educational status.  
+The visuals (pivot graphs) created from my analysis were used to create a dashboard with slicers in order to incorporate filters. One of the filters included marital status. This highlighted some interesting insights in terms of purchases by single customers vs customers that are married, their average income, age brackets and commute. A filter was also included based on educational status.  
 
 ## Findings
 * The average income per purchase was higher for men than it was for females.
