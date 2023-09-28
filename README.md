@@ -21,6 +21,7 @@ Before conducting analysis, I created a pivot table.
 
 ## Visualisations and Dashboard
 The visuals (pivot graphs) created from my analysis were used to create a dashboard with slicers in order to incorporate filters. One of the filters included marital status. This highlighted some interesting insights in terms of purchases by single customers vs customers that are married, their average income, age brackets and commute. A filter was also included based on educational status.  
+
 ![_Bike Sales Dashboard](https://github.com/MariaTayo/Excel-Bikes-Sales-Analysis/assets/117232459/8f60fa00-992c-400c-855b-f7539b940fb3)
 
 ## Findings
