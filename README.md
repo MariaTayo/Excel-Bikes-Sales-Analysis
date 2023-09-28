@@ -28,6 +28,6 @@ The visuals (pivot graphs) created from my analysis were used to create a dashbo
 * The average income per purchase was higher for men than it was for females.
 * The majority of bike purchases were made from customers in the middle age bracket (those aged 31-54).
 * The majority of bike purchases (508) were made in North America.
-* Those with a shorter commute distance made more bike purchases than those with a greater commute distance.
+* Those with a shorter commute distance made more bike related purchases than those with a greater commute distance.
 
 
