@@ -9,7 +9,7 @@ Cleaning steps taken were as follows:
 * Checked to see whether there were any duplicates in the dataset. There were no duplicates to be removed in the dataset.
 * Reviewed each column. Replaced the marital status input from "M" and "S" to "Married" and "Single" using find and replace. Also replaced gender input from "M" to "Male" and "F" to "Female".
 * Changed the format for the income column to currency and removed additional zeros.
-* Created a new column for age and used the IF formula (nested if statement) to seperate the different age and ranges to new categories (Young Adult, Middle Aged and Old) 
+* Created a new column for age and used the IF formula (nested if statement) to seperate the different age and ranges to new categories (Young Adult, Middle Aged and Old). 
 
 ## Data Analysis
 Before conducting analysis, I created a pivot table. 
